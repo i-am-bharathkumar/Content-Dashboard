@@ -2,6 +2,8 @@
 
 A modern, responsive dashboard for aggregating and managing personalized content from multiple sources including news, movie recommendations, and social media posts.
 
+🌐 **Live Demo**: [https://contentdash.netlify.app](https://contentdash.netlify.app)
+
 ## 🚀 Features
 
 ### Core Features
